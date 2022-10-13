@@ -1,1 +1,1 @@
-let nummer= 50;
+let nummer= 7;
